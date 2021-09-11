@@ -27,6 +27,8 @@
 ## About The Project
 
 
+![gif](./assets/ecomBE.gif)
+
 E-Commerce Back End!
 
 
